@@ -4,7 +4,11 @@
     <groupId>com.mycompany</groupId>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <artifactId>SumaMonitores</artifactId>
+=======
+    <artifactId>SumaSynchronized</artifactId>
+>>>>>>> origin/master
 =======
     <artifactId>SumaSynchronized</artifactId>
 >>>>>>> origin/master
